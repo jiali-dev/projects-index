@@ -24,5 +24,5 @@ This repository serves as a **central hub** linking all my public projects — f
 ## 📜 About Me
 I’m a developer specializing in **WordPress** and **Modern Frontend Development (JavaScript, React, Next.js)**.  
 You can find me on:  
-- [LinkedIn](www.linkedin.com/in/mahyarerad)
+- [LinkedIn](https://linkedin.com/in/mahyarerad)
 - [Portfolio Website](https://mahyarerad.com)
